@@ -1,0 +1,14 @@
+{
+  "name": "shortcut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shortcut.js",
+  "scripts": {
+    "start": "node shortcut.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

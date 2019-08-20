@@ -1,0 +1,19 @@
+{
+    "response":{
+        "version": "2.0",
+        "resultCode": "OK",
+        "output": {
+        
+        },
+        "directives": [
+        {
+            "type": "AudioPlayer.Play",
+            "audioItem": {     
+                "stream": {
+                },
+                "metadata": { }
+            }
+        }
+        ]
+    }
+}
